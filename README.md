@@ -46,5 +46,5 @@ _(Replace with your actual deployment link)_
    cd calorie-burn-predictor
 2. Install dependencies:
     pip install -r requirements.txt
-3.Run the app:
+3. Run the app:
     streamlit run app.py
